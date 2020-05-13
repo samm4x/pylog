@@ -12,4 +12,4 @@
 
 - Updates coming soon!
 
-### Try it out with an example log: https://repl.it/github/samm4x/pylog set "run" to "main.py" in the file ".replit"
+### Try it out with an example log: https://repl.it/repls/FabulousWelloffDrawings
