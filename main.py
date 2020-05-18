@@ -4,6 +4,8 @@ logFileLine = datetime.datetime.now().strftime("[%a %b  %d %X %Y] [notice] Logs 
 errors = []
 lineNum = 0
 errorKeyword = "error".lower()
+noticeKeyword = "notice".lower()
+infoKeyword = "info".lower()
 for line in readLog:
   lineNum += 1
   if line.lower().find(errorKeyword) != -1:
